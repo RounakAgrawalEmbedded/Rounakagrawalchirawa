@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rounakagrawalchirawa
+- 👋 Hi, I’m @Rounakagrawal
 - 👀 I’m interested in embedded c
-- 🌱 I’m currently learning esp32, esp-idf, embedded c, opencv
+- 🌱 I’m currently learning esp32, esp-idf, embedded c, opencv, WiFi 802.11b/g/n/ac
 - 💞️ I’m looking to collaborate on esp32, esp-idf, embedded c, opencv
 - 📫 How to reach me ...
 
